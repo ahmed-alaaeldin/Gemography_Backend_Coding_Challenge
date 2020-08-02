@@ -18,9 +18,7 @@ async function getLanguages(req, res) {
 
     return res.status(200).json(languages);
   } catch (error) {
-    res
-      .status(500)
-      .json({ err: "Something went wrong with github check your connection" });
+    res.status(500).json({ err: "Something went wrong" });
   }
 }
 

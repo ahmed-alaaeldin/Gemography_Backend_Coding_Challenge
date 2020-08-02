@@ -1,0 +1,19 @@
+{
+  "name": "gemography_backend_coding_challenge",
+  "version": "1.0.0",
+  "description": "A REST microservice that list the languages used by the 100 trending public repos on GitHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-alaaeldin/Gemography_Backend_Coding_Challenge.git"
+  },
+  "author": "Ahmed Alaaeldin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed-alaaeldin/Gemography_Backend_Coding_Challenge/issues"
+  },
+  "homepage": "https://github.com/ahmed-alaaeldin/Gemography_Backend_Coding_Challenge#readme"
+}
